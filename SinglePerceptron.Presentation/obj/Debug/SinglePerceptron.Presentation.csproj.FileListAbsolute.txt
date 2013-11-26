@@ -1,0 +1,20 @@
+c:\users\danny\documents\visual studio 2012\Projects\SinglePerceptron\SinglePerceptron.Presentation\bin\Debug\SinglePerceptron.Presentation.exe.config
+c:\users\danny\documents\visual studio 2012\Projects\SinglePerceptron\SinglePerceptron.Presentation\bin\Debug\SinglePerceptron.Presentation.exe
+c:\users\danny\documents\visual studio 2012\Projects\SinglePerceptron\SinglePerceptron.Presentation\bin\Debug\SinglePerceptron.Presentation.pdb
+c:\users\danny\documents\visual studio 2012\Projects\SinglePerceptron\SinglePerceptron.Presentation\obj\Debug\SinglePerceptron.Presentation.csprojResolveAssemblyReference.cache
+c:\users\danny\documents\visual studio 2012\Projects\SinglePerceptron\SinglePerceptron.Presentation\obj\Debug\SinglePerceptron.Presentation.Form1.resources
+c:\users\danny\documents\visual studio 2012\Projects\SinglePerceptron\SinglePerceptron.Presentation\obj\Debug\SinglePerceptron.Presentation.Properties.Resources.resources
+c:\users\danny\documents\visual studio 2012\Projects\SinglePerceptron\SinglePerceptron.Presentation\obj\Debug\SinglePerceptron.Presentation.csproj.GenerateResource.Cache
+c:\users\danny\documents\visual studio 2012\Projects\SinglePerceptron\SinglePerceptron.Presentation\obj\Debug\SinglePerceptron.Presentation.exe
+c:\users\danny\documents\visual studio 2012\Projects\SinglePerceptron\SinglePerceptron.Presentation\obj\Debug\SinglePerceptron.Presentation.pdb
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Presentation\bin\Debug\SinglePerceptron.Presentation.exe.config
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Presentation\obj\Debug\SinglePerceptron.Presentation.exe
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Presentation\obj\Debug\SinglePerceptron.Presentation.pdb
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Presentation\bin\Debug\SinglePerceptron.Presentation.exe
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Presentation\bin\Debug\SinglePerceptron.Presentation.pdb
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Presentation\obj\Debug\SinglePerceptron.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Presentation\obj\Debug\SinglePerceptron.Presentation.Form1.resources
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Presentation\obj\Debug\SinglePerceptron.Presentation.Properties.Resources.resources
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Presentation\obj\Debug\SinglePerceptron.Presentation.csproj.GenerateResource.Cache
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Presentation\bin\Debug\SinglePerceptron.Logic.dll
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Presentation\bin\Debug\SinglePerceptron.Logic.pdb

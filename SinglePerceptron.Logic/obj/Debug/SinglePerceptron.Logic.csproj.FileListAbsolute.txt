@@ -1,0 +1,5 @@
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Logic\obj\Debug\SinglePerceptron.Logic.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Logic\bin\Debug\SinglePerceptron.Logic.dll
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Logic\bin\Debug\SinglePerceptron.Logic.pdb
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Logic\obj\Debug\SinglePerceptron.Logic.dll
+C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.Logic\obj\Debug\SinglePerceptron.Logic.pdb
