@@ -1,0 +1,5 @@
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.Threshold\bin\Debug\SinglePerceptron.Threshold.dll
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.Threshold\bin\Debug\SinglePerceptron.Threshold.pdb
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.Threshold\obj\Debug\SinglePerceptron.Threshold.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.Threshold\obj\Debug\SinglePerceptron.Threshold.dll
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.Threshold\obj\Debug\SinglePerceptron.Threshold.pdb

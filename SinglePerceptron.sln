@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePerceptron.Presentation", "SinglePerceptron.Presentation\SinglePerceptron.Presentation.csproj", "{823DCDE1-519E-49CB-9D6A-EC1820472780}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePerceptron.Logic", "SinglePerceptron.Logic\SinglePerceptron.Logic.csproj", "{5E2D0AD4-8B4A-48E7-A54E-A40F04E535A4}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePerceptron.UnitTests", "SinglePerceptron.UnitTests\SinglePerceptron.UnitTests.csproj", "{36942985-EB62-447F-B9BC-7C89C7A7E06D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePerceptron.Threshold", "SinglePerceptron.Threshold\SinglePerceptron.Threshold.csproj", "{145F3E5F-FF80-44C0-BE6E-A11364B99C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePerceptron.Weights", "SinglePerceptron.Weights\SinglePerceptron.Weights.csproj", "{2F86BF41-C37F-4B28-BAE2-0F0DA2D24CF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,14 +19,18 @@ Global
 		{823DCDE1-519E-49CB-9D6A-EC1820472780}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{823DCDE1-519E-49CB-9D6A-EC1820472780}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{823DCDE1-519E-49CB-9D6A-EC1820472780}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5E2D0AD4-8B4A-48E7-A54E-A40F04E535A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5E2D0AD4-8B4A-48E7-A54E-A40F04E535A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5E2D0AD4-8B4A-48E7-A54E-A40F04E535A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5E2D0AD4-8B4A-48E7-A54E-A40F04E535A4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{36942985-EB62-447F-B9BC-7C89C7A7E06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{36942985-EB62-447F-B9BC-7C89C7A7E06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36942985-EB62-447F-B9BC-7C89C7A7E06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36942985-EB62-447F-B9BC-7C89C7A7E06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145F3E5F-FF80-44C0-BE6E-A11364B99C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145F3E5F-FF80-44C0-BE6E-A11364B99C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145F3E5F-FF80-44C0-BE6E-A11364B99C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145F3E5F-FF80-44C0-BE6E-A11364B99C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F86BF41-C37F-4B28-BAE2-0F0DA2D24CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F86BF41-C37F-4B28-BAE2-0F0DA2D24CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F86BF41-C37F-4B28-BAE2-0F0DA2D24CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F86BF41-C37F-4B28-BAE2-0F0DA2D24CF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

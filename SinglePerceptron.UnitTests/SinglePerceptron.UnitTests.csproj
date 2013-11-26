@@ -40,18 +40,22 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Logic\RandomWeightGenerator_Should.cs" />
-    <Compile Include="Logic\RandomWeightInitialiser_Should.cs" />
-    <Compile Include="Logic\ThresholdGenerator_Should.cs" />
+    <Compile Include="Weights\RandomWeightGenerator_Should.cs" />
+    <Compile Include="Weights\RandomWeightInitialiser_Should.cs" />
+    <Compile Include="Threshold\ThresholdGenerator_Should.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SinglePerceptron.Logic\SinglePerceptron.Logic.csproj">
-      <Project>{5E2D0AD4-8B4A-48E7-A54E-A40F04E535A4}</Project>
-      <Name>SinglePerceptron.Logic</Name>
+    <ProjectReference Include="..\SinglePerceptron.Threshold\SinglePerceptron.Threshold.csproj">
+      <Project>{145F3E5F-FF80-44C0-BE6E-A11364B99C78}</Project>
+      <Name>SinglePerceptron.Threshold</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SinglePerceptron.Weights\SinglePerceptron.Weights.csproj">
+      <Project>{2F86BF41-C37F-4B28-BAE2-0F0DA2D24CF0}</Project>
+      <Name>SinglePerceptron.Weights</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

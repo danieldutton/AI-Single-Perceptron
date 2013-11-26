@@ -1,7 +1,8 @@
-﻿using SinglePerceptron.Logic.Interfaces;
-using System;
+﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
+using SinglePerceptron.Threshold;
+using SinglePerceptron.Weights.Interfaces;
 
 namespace SinglePerceptron.Presentation
 {

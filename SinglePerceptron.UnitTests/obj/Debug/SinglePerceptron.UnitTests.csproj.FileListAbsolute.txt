@@ -9,3 +9,14 @@ C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.UnitTests\bin
 C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.UnitTests\obj\Debug\SinglePerceptron.UnitTests.csprojResolveAssemblyReference.cache
 C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.UnitTests\obj\Debug\SinglePerceptron.UnitTests.dll
 C:\Users\Danny\Documents\GitHub\Single-Perceptron\SinglePerceptron.UnitTests\obj\Debug\SinglePerceptron.UnitTests.pdb
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\SinglePerceptron.UnitTests.dll
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\SinglePerceptron.UnitTests.pdb
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\Moq.dll
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\SinglePerceptron.Logic.dll
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\SinglePerceptron.Logic.pdb
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\Moq.xml
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\obj\Debug\SinglePerceptron.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\obj\Debug\SinglePerceptron.UnitTests.dll
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\obj\Debug\SinglePerceptron.UnitTests.pdb
