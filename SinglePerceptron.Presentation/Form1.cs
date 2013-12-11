@@ -1,8 +1,8 @@
-﻿using System;
+﻿using SinglePerceptron.Threshold;
+using SinglePerceptron.Weights.Interfaces;
+using System;
 using System.Drawing;
 using System.Windows.Forms;
-using SinglePerceptron.Threshold;
-using SinglePerceptron.Weights.Interfaces;
 
 namespace SinglePerceptron.Presentation
 {
@@ -90,6 +90,7 @@ namespace SinglePerceptron.Presentation
 
             var aOutput = new double[8];
 
+
             do
             {
                 _error = 0;
@@ -123,7 +124,7 @@ namespace SinglePerceptron.Presentation
 
         private void RandomlyInitialiseWeights()
         {
-            _inputWeights = _weightInitialiser.GetInitialisedRandomWeights((double)_nUpDownThreshold.Value);
+            _inputWeights = _weightInitialiser.GetRandomWeights((double)_nUpDownThreshold.Value);
         }
 
         private void PopulateResultsGrid(int i)
@@ -150,6 +151,7 @@ namespace SinglePerceptron.Presentation
             _nUpDownLearningRate.Value = 0.0M;
             _nUpDownThreshold.Value = 0.0M;
             _nUpDownDesiredOutput.Value = 1M;
+            
             ClearTrainingResultsGrid();
             epochsCountLbl.Text = "0";
             finWeightsCountLbl.Text = string.Empty;

@@ -2,6 +2,6 @@
 {
     public interface IWeightInitialiser
     {
-        double[] GetInitialisedRandomWeights(double thresholdValue);
+        double[] GetRandomWeights(double thresholdValue);
     }
 }

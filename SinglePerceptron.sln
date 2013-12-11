@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePerceptron.Presentation", "SinglePerceptron.Presentation\SinglePerceptron.Presentation.csproj", "{823DCDE1-519E-49CB-9D6A-EC1820472780}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePerceptron.UnitTests", "SinglePerceptron.UnitTests\SinglePerceptron.UnitTests.csproj", "{36942985-EB62-447F-B9BC-7C89C7A7E06D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePerceptron._UnitTests", "SinglePerceptron.UnitTests\SinglePerceptron._UnitTests.csproj", "{36942985-EB62-447F-B9BC-7C89C7A7E06D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePerceptron.Threshold", "SinglePerceptron.Threshold\SinglePerceptron.Threshold.csproj", "{145F3E5F-FF80-44C0-BE6E-A11364B99C78}"
 EndProject

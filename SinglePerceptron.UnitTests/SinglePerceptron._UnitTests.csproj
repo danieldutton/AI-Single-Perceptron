@@ -7,8 +7,8 @@
     <ProjectGuid>{36942985-EB62-447F-B9BC-7C89C7A7E06D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SinglePerceptron.UnitTests</RootNamespace>
-    <AssemblyName>SinglePerceptron.UnitTests</AssemblyName>
+    <RootNamespace>SinglePerceptron._UnitTests</RootNamespace>
+    <AssemblyName>SinglePerceptron._UnitTests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

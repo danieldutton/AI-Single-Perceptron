@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using SinglePerceptron.Threshold;
 
-namespace SinglePerceptron.UnitTests.Threshold
+namespace SinglePerceptron._UnitTests.Threshold
 {
     [TestFixture]
     public class ThresholdGenerator_Should

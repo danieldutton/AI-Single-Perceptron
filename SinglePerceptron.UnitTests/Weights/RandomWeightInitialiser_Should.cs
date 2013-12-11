@@ -4,7 +4,7 @@ using SinglePerceptron.Weights;
 using SinglePerceptron.Weights.Interfaces;
 using System.Linq;
 
-namespace SinglePerceptron.UnitTests.Weights
+namespace SinglePerceptron._UnitTests.Weights
 {
     [TestFixture]
     public class RandomWeightInitialiser_Should
@@ -23,7 +23,7 @@ namespace SinglePerceptron.UnitTests.Weights
         [Test]
         public void GetInitialisedRandomWeights_InitialiseFirstReturnArrayElement_ToThresholdValue()
         {
-            double[] result = _sut.GetInitialisedRandomWeights(2.0);
+            double[] result = _sut.GetRandomWeights(2.0);
 
             Assert.AreEqual(2.0, result[0]);
         }
@@ -31,7 +31,7 @@ namespace SinglePerceptron.UnitTests.Weights
         [Test]
         public void GetInitialisedRandomWeights_CallGetRandomDouble_ThreeTimes()
         {
-            _sut.GetInitialisedRandomWeights(It.IsAny<double>());
+            _sut.GetRandomWeights(It.IsAny<double>());
 
             _fakeWeightGenerator.Verify(x => x.GetRandomDouble(It.IsAny<double>(), It.IsAny<double>()), Times.Exactly(3));
         }
@@ -39,7 +39,7 @@ namespace SinglePerceptron.UnitTests.Weights
         [Test]
         public void GetInitialisedRandomWeights_PassTheCorrectParameterOfNegative0Point5_ToGetRandomDouble()
         {
-            _sut.GetInitialisedRandomWeights(It.IsAny<double>());
+            _sut.GetRandomWeights(It.IsAny<double>());
 
             _fakeWeightGenerator.Verify(x => x.GetRandomDouble(It.Is<double>(y => y == -0.5), It.IsAny<double>()));
         }
@@ -47,7 +47,7 @@ namespace SinglePerceptron.UnitTests.Weights
         [Test]
         public void GetInitialisedRandomWeights_PassTheCorrectParameterOfPositive0Point5_ToGetRandomDouble()
         {
-            _sut.GetInitialisedRandomWeights(It.IsAny<double>());
+            _sut.GetRandomWeights(It.IsAny<double>());
 
             _fakeWeightGenerator.Verify(x => x.GetRandomDouble(It.IsAny<double>(), It.Is<double>(y => y == 0.5)));
         }
@@ -55,7 +55,7 @@ namespace SinglePerceptron.UnitTests.Weights
         [Test]
         public void GetInitialisedRandomWeights_EnsureNoArrayElementIsLessThan_Negative0Point5()
         {
-            double[] result = _sut.GetInitialisedRandomWeights(2.0);
+            double[] result = _sut.GetRandomWeights(2.0);
 
             Assert.IsTrue(result.All(x => x >= -0.5));
         }
@@ -63,7 +63,7 @@ namespace SinglePerceptron.UnitTests.Weights
         [Test]
         public void GetInitialisedRandomWeights_ReturnsAnArrayContainingOnlyDoubles()
         {
-            double[] result = _sut.GetInitialisedRandomWeights(2.0);
+            double[] result = _sut.GetRandomWeights(2.0);
 
             CollectionAssert.AllItemsAreInstancesOfType(result, typeof(double));
         }

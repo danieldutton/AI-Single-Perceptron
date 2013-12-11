@@ -2,7 +2,7 @@
 using SinglePerceptron.Weights;
 using System;
 
-namespace SinglePerceptron.UnitTests.Weights
+namespace SinglePerceptron._UnitTests.Weights
 {
     [TestFixture]
     public class RandomWeightGenerator_Should

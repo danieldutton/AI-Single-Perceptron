@@ -1,0 +1,12 @@
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\SinglePerceptron._UnitTests.dll
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\SinglePerceptron._UnitTests.pdb
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\Moq.dll
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\SinglePerceptron.Threshold.dll
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\SinglePerceptron.Weights.dll
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\SinglePerceptron.Threshold.pdb
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\SinglePerceptron.Weights.pdb
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\Moq.xml
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\obj\Debug\SinglePerceptron._UnitTests.dll
+C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.UnitTests\obj\Debug\SinglePerceptron._UnitTests.pdb

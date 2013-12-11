@@ -12,7 +12,7 @@ namespace SinglePerceptron.Weights
         }
 
 
-        public double[] GetInitialisedRandomWeights(double thresholdValue)
+        public double[] GetRandomWeights(double thresholdValue)
         {
             var inputWeights = new double[4];
 
@@ -26,7 +26,6 @@ namespace SinglePerceptron.Weights
                 double value = _randomWeightGenerator.GetRandomDouble(minWeightRange, maxWeightRange);
                 inputWeights[i] = value;
             }
-
             return inputWeights;
         }
     }
