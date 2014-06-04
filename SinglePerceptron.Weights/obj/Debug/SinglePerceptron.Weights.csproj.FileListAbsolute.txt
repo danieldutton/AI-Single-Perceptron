@@ -1,5 +1,0 @@
-C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.Weights\bin\Debug\SinglePerceptron.Weights.dll
-C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.Weights\bin\Debug\SinglePerceptron.Weights.pdb
-C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.Weights\obj\Debug\SinglePerceptron.Weights.csprojResolveAssemblyReference.cache
-C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.Weights\obj\Debug\SinglePerceptron.Weights.dll
-C:\Users\Danny\Documents\GitHub\AI-Single-Perceptron-\SinglePerceptron.Weights\obj\Debug\SinglePerceptron.Weights.pdb
